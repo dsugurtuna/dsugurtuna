@@ -1,6 +1,6 @@
 # Ugur Tuna
 
-**Senior Data Scientist | NIHR BioResource, University of Cambridge**
+**Senior Data Scientist | University of Cambridge**
 
 I build production-grade bioinformatics pipelines, machine learning systems, and cloud-native platforms that turn genomic data into actionable research outcomes. At Cambridge, I lead end-to-end genomic data provisioning for one of the UK's largest national research cohorts — processing 50,000+ samples, managing terabyte-scale secure transfers, and enabling precision recall-by-genotype studies across rare diseases, immunology, neurodegeneration, and inflammatory bowel disease.
 
